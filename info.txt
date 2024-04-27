@@ -1,0 +1,4 @@
+2D graphics in Python: https://inside.catlin.edu/site/compsci/resources/python/graphics/PythonGraphics.html
+ 
+
+3D graphics in Python: https://inside.catlin.edu/site/compsci/resources/python/graphics/PythonGraphics3D.html
